@@ -1,5 +1,5 @@
 {
-      "name": "Skyzu Robot",
+      "name": "Santhu management",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/56811b69cbcece20bbebf.jpg",  
-   "repository": "https://github.com/Skyzu/SkyzuRobot",
+   "logo":    "https://te.legra.ph/file/ffbb096d10dd36ad45337.jpg",  
+   "repository": "https://github.com/SANTHOSHPODILIGITHHUB/SkyzuRobot.git",
    "addons": [
           {
          "options": {
